@@ -1,4 +1,4 @@
-
+.idea
 node_modules
 ### Sass template
 .sass-cache/
@@ -49,3 +49,6 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+dist/
+src/assets/
+src/images/logo/
